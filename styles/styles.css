@@ -171,7 +171,7 @@ section {
   clip-path: polygon(0 0, 46% 0, 79% 100%, 0% 100%);
 }
 .header-content .left-header .image {
-  border-radius: var(--br-sm-2);
+  border-radius: 50%; /* var(--br-sm-2); */
   height: 44%; /* 90% */
   width: 44%; /* 68% */
   margin-left: 11rem; /* 4 */
