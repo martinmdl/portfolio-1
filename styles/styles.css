@@ -172,9 +172,10 @@ section {
 }
 .header-content .left-header .image {
   border-radius: 50%; /* var(--br-sm-2); */
-  height: 44%; /* 90% */
+  /* height: 44%; 90% */
   width: 44%; /* 68% */
   margin-left: 11rem; /* 4 */
+
   /* background-color: var(--color-black); */
   /* transition: all 0.4s ease-in-out; */
 }
